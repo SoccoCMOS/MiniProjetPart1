@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\widad\\AndroidStudioProjects\\MiniProjetPart1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\widad\\AndroidStudioProjects\\MiniProjetPart1\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Projets\\MiniProjetPart1-2016-03-26\\MiniProjetPart1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Projets\\MiniProjetPart1-2016-03-26\\MiniProjetPart1\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Projets\\MiniProjetPart1-2016-03-26\\MiniProjetPart1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_categories.xml",
+        "source": "D:\\Projets\\MiniProjetPart1-2016-03-26\\MiniProjetPart1\\app\\src\\main\\res\\menu\\menu_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\widad\\AndroidStudioProjects\\MiniProjetPart1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_categories.xml",
+        "source": "C:\\Users\\widad\\AndroidStudioProjects\\MiniProjetPart1\\app\\src\\main\\res\\menu\\menu_categories.xml"
+    }
+]
